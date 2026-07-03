@@ -1,0 +1,12 @@
+# Never commit firmware images or flash backups.
+# A stock backup (stock-*.bin) contains the device's original Wi-Fi keys / calibration.
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
