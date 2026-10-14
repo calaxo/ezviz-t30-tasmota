@@ -200,4 +200,6 @@ config yourself (retained). Example payload to `homeassistant/switch/ezviz-t30/c
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Provided as‑is; mains voltage work is at your own risk.
+[MIT](LICENSE) © calaxo — you can reuse, modify and redistribute this work (including commercially)
+as long as you keep the copyright notice and a link back to this repository.
+Provided as‑is; mains voltage work is at your own risk.
